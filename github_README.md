@@ -45,4 +45,4 @@ Currently based in **Aarhus, Denmark** 🇩🇰 · Open to new opportunities
 
 - ✉️ capuano.alessandro20@gmail.com
 - 📍 Aarhus, Denmark
-- 💼 [LinkedIn](https://linkedin.com/in/alessandro-capuano) *(update with your actual URL)*
+- 💼 [LinkedIn](https://linkedin.com/in/alessandro-capuano) 
